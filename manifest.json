@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "五年九班集控",
+    "OrganizationName": "五年九班集控 By小华",
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/1SmartPineapple1/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 2
@@ -18,3 +18,4 @@
         "Version": 1
     }
 }
+
